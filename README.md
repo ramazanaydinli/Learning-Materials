@@ -26,7 +26,7 @@ Verification Link: https://www.credential.net/28534234-23c5-40a7-99ed-a29c974feb
 
 
 
--TensorFlow: Advanced Techniques
+- TensorFlow: Advanced Techniques
 
 Completion Date: Aug 12, 2022
 ![image](https://user-images.githubusercontent.com/80748060/191248053-5d02e82e-4139-4b71-bfe6-ee3d4a04aabb.png)
