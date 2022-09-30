@@ -31,3 +31,21 @@ Verification Link: https://www.credential.net/28534234-23c5-40a7-99ed-a29c974feb
 Completion Date: Aug 12, 2022
 ![image](https://user-images.githubusercontent.com/80748060/191248053-5d02e82e-4139-4b71-bfe6-ee3d4a04aabb.png)
 Verification Link: https://www.coursera.org/account/accomplishments/specialization/certificate/R336W27775YA
+
+
+
+- Deep Neural Netwroks with PyTorch
+
+Completion Date: Sep 27, 2022
+![image](https://user-images.githubusercontent.com/80748060/193340962-d519d94a-58d3-45d4-9eca-ceaa34c96ccc.png)
+Verification Link: https://www.coursera.org/account/accomplishments/certificate/EVDCPDVXGUCR
+
+
+
+
+- Generative Adversarial Networks (GANs)
+
+Completion Date: Sep 29, 2022
+![image](https://user-images.githubusercontent.com/80748060/193341129-eccf787b-f4bf-4ebc-a641-fffac1e7e712.png)
+
+Verification Link: https://www.coursera.org/account/accomplishments/specialization/certificate/BU9JKWNCXXFE
